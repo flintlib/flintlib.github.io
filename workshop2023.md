@@ -34,4 +34,4 @@ To register for the workshop, please contact the organizers.
 * Claus Fieker
 * Max Horn
 * Fredrik Johansson
-
+* Marc Mezzarobba
