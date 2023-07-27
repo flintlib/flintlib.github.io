@@ -31,7 +31,9 @@ Here is a tentative list of topics for coding sprints (feel free to add more ide
 
 To register for the workshop, please contact the organizers.
 
+* David Einstein (remote)
 * Claus Fieker
 * Max Horn
 * Fredrik Johansson
 * Marc Mezzarobba
+* Hartmut Monien (Wednesday afternoon - Friday)
