@@ -23,9 +23,9 @@ Here is a tentative list of topics for coding sprints (feel free to add more ide
 
 ## Organizers
 
-* Fredrik Johansson (fredrik.johansson@gmail.com)
-* Max Horn (horn@mathematik.uni-kl.de)
-* Claus Fieker (fieker@mathematik.uni-kl.de)
+* Fredrik Johansson (<fredrik.johansson@gmail.com>)
+* Max Horn (<horn@mathematik.uni-kl.de>)
+* Claus Fieker (<fieker@mathematik.uni-kl.de>)
 
 ## List of participants
 
