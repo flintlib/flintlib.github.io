@@ -29,7 +29,7 @@ Here is a tentative list of topics for coding sprints (feel free to add more ide
 
 ## List of participants
 
-To register for the workshop, please contact the organizers. Funding is available to cover travel and accommodation for some participants; let use know as soon as possible if you need this.
+To register for the workshop, please contact the organizers. Funding is available to cover travel and accommodation for some participants; let us know as soon as possible if you need this.
 
 * David Einstein (remote)
 * Claus Fieker
