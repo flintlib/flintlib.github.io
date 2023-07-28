@@ -4,11 +4,11 @@
 
 October 9 - 13, 2023
 
-RPTU Kaiserslautern
+RPTU Kaiserslautern, Germany
 
-## Agenda
+## Program
 
-The workshop will focus on on coding sprints to develop FLINT (https://flintlib.org/) and improve FLINT's integration in other software.
+The workshop will focus on on coding sprints to develop [FLINT](https://flintlib.org/) and improve FLINT's integration in other software.
 
 Depending on the number of participants, we may arrange a small number of tutorials and technical talks (O(1) / day).
 
@@ -29,7 +29,7 @@ Here is a tentative list of topics for coding sprints (feel free to add more ide
 
 ## List of participants
 
-To register for the workshop, please contact the organizers.
+To register for the workshop, please contact the organizers. Funding is available to cover travel and accommodation for some participants; let use know as soon as possible if you need this.
 
 * David Einstein (remote)
 * Claus Fieker
@@ -37,3 +37,8 @@ To register for the workshop, please contact the organizers.
 * Fredrik Johansson
 * Marc Mezzarobba
 * Hartmut Monien (Wednesday afternoon - Friday)
+
+## Local information
+
+* [Transport to RPTU](https://rptu.de/en/routes-and-means-of-transport)
+* [Campus maps](https://rptu.de/en/campus-maps)
