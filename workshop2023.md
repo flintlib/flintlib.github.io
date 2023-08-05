@@ -31,6 +31,8 @@ Here is a tentative list of topics for coding sprints (feel free to add more ide
 
 To register for the workshop, please contact the organizers. Funding is available to cover travel and accommodation for some participants; let us know as soon as possible if you need this.
 
+* Alex Best
+* Edgar Costa
 * Joel Dahne
 * Håvard Damm-Johnsen
 * David Einstein (remote)
