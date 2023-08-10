@@ -43,6 +43,7 @@ To register for the workshop, please contact the organizers. Funding is availabl
 * Fredrik Johansson
 * Marc Mezzarobba
 * Hartmut Monien (Wednesday afternoon - Friday)
+* Kartik Venkatram
 
 ## Local information
 
