@@ -44,7 +44,7 @@ To register for the workshop, please contact the organizers. Funding is availabl
 * Max Horn
 * Fredrik Johansson
 * Marc Mezzarobba
-* Pascal Molin
+* Pascal Molin (Monday - Thursday)
 * Hartmut Monien (Wednesday afternoon - Friday)
 * Vincent Neiger
 * Kartik Venkatram
