@@ -9,7 +9,7 @@ RPTU Kaiserslautern, Germany
 ## Program
 
 The workshop will focus on on coding sprints to develop [FLINT](https://flintlib.org/) and improve FLINT's integration in other software.
-We start on Monday morning and Friday afternoon.
+We start on Monday morning and finish Friday afternoon.
 
 Depending on the number of participants, we may arrange a small number of tutorials and technical talks (O(1) / day).
 
@@ -34,7 +34,7 @@ To register for the workshop, please contact the organizers. Funding is availabl
 
 * Albin Ahlbäck
 * Oscar Benjamin (remote, tentatively)
-* Alex Best
+* Alex Best (Monday - Wednesday)
 * Edgar Costa
 * Joel Dahne
 * Håvard Damm-Johnsen
