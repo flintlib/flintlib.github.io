@@ -35,6 +35,7 @@ To register for the workshop, please contact the organizers. Funding is availabl
 * Albin Ahlbäck
 * Oscar Benjamin (remote, tentatively)
 * Alex Best (Monday - Wednesday)
+* Ricardo Buring
 * Edgar Costa
 * Joel Dahne
 * Håvard Damm-Johnsen
