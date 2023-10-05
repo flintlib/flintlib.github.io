@@ -6,6 +6,14 @@ October 9 - 13, 2023
 
 RPTU Kaiserslautern, Germany
 
+We will be in room 48-519 and hopefully also 48-419. You can find building 48 on the [campus map](https://rptu.de/en/campus-maps).
+
+## Wiki
+
+We will coordinate coding projects on this wiki page:
+
+* https://github.com/flintlib/flint2/wiki/Workshop-2023
+
 ## Program
 
 The workshop will focus on on coding sprints to develop [FLINT](https://flintlib.org/) and improve FLINT's integration in other software.
