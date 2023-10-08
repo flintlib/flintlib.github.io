@@ -12,7 +12,7 @@ We will be in room 48-519 and hopefully also 48-419. You can find building 48 on
 
 We will coordinate coding projects on this wiki page:
 
-* https://github.com/flintlib/flint2/wiki/Workshop-2023
+* <https://github.com/flintlib/flint2/wiki/Workshop-2023>
 
 ## Program
 
