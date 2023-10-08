@@ -17,7 +17,7 @@ We will coordinate coding projects on this wiki page:
 ## Program
 
 The workshop will focus on on coding sprints to develop [FLINT](https://flintlib.org/) and improve FLINT's integration in other software.
-We start on Monday morning and finish Friday afternoon.
+We start 9:30 on Monday morning in room 48-519, and finish Friday afternoon.
 
 Depending on the number of participants, we may arrange a small number of tutorials and technical talks (O(1) / day).
 
