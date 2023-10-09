@@ -49,6 +49,7 @@ To register for the workshop, please contact the organizers. Funding is availabl
 * Joel Dahne
 * Håvard Damm-Johnsen
 * Vincent Delecroix (remote)
+* Bernike Dieterle
 * David Einstein (remote)
 * Andreas Enge (Monday evening - Wednesday)
 * Claus Fieker
