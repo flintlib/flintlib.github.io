@@ -1,5 +1,9 @@
 # 2023 FLINT development workshop
 
+## Summary report
+
+* <https://fredrikj.net/blog/2023/10/kaiserslautern-flint-meeting-report/>
+
 ## When and where
 
 October 9 - 13, 2023
