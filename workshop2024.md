@@ -2,15 +2,16 @@
 
 ## When and where
 
-March 18 - 22, 2024
+* March 18 - 22, 2024
 
-University of Bordeaux, Bordeaux, France
+* University of Bordeaux, Bordeaux, France
 
-We have booked rooms 74 and 73 (ground floor) at LaBRI for the whole week ([how to get to LaBRI](https://www.labri.fr/en/presentation/coming-labri)).
+* We have booked rooms 74 and 73 (ground floor) at LaBRI for the whole week ([how to get to LaBRI](https://www.labri.fr/en/presentation/coming-labri))
 
 ## Program
 
-TBA
+* 9:00 Monday morning - 17:00 Friday afternoon
+* Thursday 10:00-12:00 we will co-host the usual weekly [Bordeaux SageMath meeting](https://wiki.sagemath.org/thursdaysbdx)
 
 ## Organizers
 
