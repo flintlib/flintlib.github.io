@@ -24,4 +24,5 @@ To register for the workshop, please contact Fredrik.
 
 We expect to have funds to cover local expenses and/or travel for some participants, but we are still waiting for confirmation about the budget.
 
+* Edgar Costa
 * Fredrik Johansson
