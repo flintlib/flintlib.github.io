@@ -32,3 +32,4 @@ To register for the workshop, please contact Fredrik. We expect to have funds to
 
 * Edgar Costa
 * Fredrik Johansson
+* Marc Mezzarobba
