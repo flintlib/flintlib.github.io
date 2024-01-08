@@ -18,6 +18,7 @@
 * Numerical and exact linear algebra
 * p-adic arithmetic
 * Generics
+* Theta functions
 
 ## Organizers
 
@@ -32,4 +33,5 @@ To register for the workshop, please contact Fredrik. We expect to have funds to
 
 * Edgar Costa
 * Fredrik Johansson
+* Jean Kieffer
 * Marc Mezzarobba
