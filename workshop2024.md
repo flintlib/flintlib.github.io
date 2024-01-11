@@ -19,6 +19,7 @@
 * p-adic arithmetic
 * Generics
 * Theta functions
+* Noncommutative polynomials
 
 ## Organizers
 
@@ -31,6 +32,8 @@ To register for the workshop, please contact Fredrik. We expect to have funds to
 
 ## Participants
 
+* Albin Ahlbäck
+* Ricardo Buring
 * Edgar Costa
 * Fredrik Johansson
 * Jean Kieffer
