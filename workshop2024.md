@@ -38,3 +38,7 @@ To register for the workshop, please contact Fredrik. We expect to have funds to
 * Fredrik Johansson
 * Jean Kieffer
 * Marc Mezzarobba
+
+## Funding
+
+* [ANR NuSCAP](https://nuscap.gitlabpages.inria.fr/index.html)
