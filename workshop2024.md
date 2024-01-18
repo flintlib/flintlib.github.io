@@ -35,6 +35,7 @@ To register for the workshop, please contact Fredrik. We expect to have funds to
 * Albin Ahlbäck
 * Ricardo Buring
 * Edgar Costa
+* Andreas Enge (except for Thursday)
 * Fredrik Johansson
 * Jean Kieffer
 * Marc Mezzarobba
