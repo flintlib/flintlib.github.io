@@ -8,7 +8,7 @@
 
 ## Schedule
 
-* 9:00 Monday morning - 17:00 Friday afternoon (but feel free to come only for a part of the week)
+* 9:30 Monday morning - 17:00 Friday afternoon (but feel free to come only for a part of the week)
 * Thursday 10:00-12:00 we will co-host the usual weekly [Bordeaux SageMath meeting](https://wiki.sagemath.org/thursdaysbdx)
 
 ## Planned projects
@@ -34,6 +34,7 @@ To register for the workshop, please contact Fredrik. We expect to have funds to
 
 * Albin Ahlbäck
 * Ricardo Buring
+* Xavier Caruso (tentatively, part of the week)
 * Edgar Costa
 * Andreas Enge (except for Thursday)
 * Fredrik Johansson
