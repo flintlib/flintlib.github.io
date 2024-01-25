@@ -40,6 +40,7 @@ To register for the workshop, please contact Fredrik. We expect to have funds to
 * Fredrik Johansson
 * Jean Kieffer
 * Marc Mezzarobba
+* Hartmut Monien
 
 ## Funding
 
