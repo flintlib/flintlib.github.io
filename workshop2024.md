@@ -32,8 +32,8 @@ To register for the workshop, please contact Fredrik. We expect to have funds to
 
 ## Participants
 
-* Albin Ahlbäck
-* Alex Best (tentatively, maybe remote)
+* Albin Ahlbäck.
+* Alex Best (tentatively, remote only)
 * Ricardo Buring
 * Xavier Caruso (tentatively, part of the week)
 * Edgar Costa
