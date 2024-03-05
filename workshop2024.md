@@ -32,14 +32,14 @@ To register for the workshop, please contact Fredrik. We expect to have funds to
 
 ## Participants
 
-* Albin Ahlbäck.
+* Albin Ahlbäck
 * Alex Best (tentatively, remote only)
 * Ricardo Buring
 * Xavier Caruso (tentatively, part of the week)
 * Edgar Costa
 * Andreas Enge (except for Thursday)
 * Fredrik Johansson
-* Jean Kieffer
+* Jean Kieffer (Tuesday - Thursday)
 * Marc Mezzarobba
 * Hartmut Monien
 * Vincent Neiger (remote, maybe in person)
