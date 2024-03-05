@@ -37,9 +37,11 @@ To register for the workshop, please contact Fredrik. We expect to have funds to
 * Ricardo Buring
 * Xavier Caruso (tentatively, part of the week)
 * Edgar Costa
+* Vincent Delecroix
 * Andreas Enge (except for Thursday)
 * Fredrik Johansson
 * Jean Kieffer (Tuesday - Thursday)
+* Sébastien Labbé (? Thursday)
 * Marc Mezzarobba
 * Hartmut Monien
 * Vincent Neiger (remote, maybe in person)
