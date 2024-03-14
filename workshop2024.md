@@ -25,6 +25,7 @@
 
 * Fredrik Johansson (<fredrik.johansson@gmail.com>)
 * Sébastien Labbé (<sebastien.labbe@labri.fr>)
+* Andreas Enge (<andreas.enge@inria.fr>)
 
 ## Registration
 
@@ -33,6 +34,7 @@ To register for the workshop, please contact Fredrik. We expect to have funds to
 ## Participants
 
 * Albin Ahlbäck
+* Bill Allombert
 * Alex Best (tentatively, remote only)
 * Ricardo Buring
 * Xavier Caruso (tentatively, part of the week)
