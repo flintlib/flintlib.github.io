@@ -11,6 +11,11 @@
 * 9:30 Monday morning - 17:00 Friday afternoon (but feel free to come only for a part of the week)
 * Thursday 10:00-12:00 we will co-host the usual weekly [Bordeaux SageMath meeting](https://wiki.sagemath.org/thursdaysbdx)
 
+## Discussion
+
+* Zulip chat: https://sagemath.zulipchat.com/#narrow/stream/408539-flint
+* Wiki: https://github.com/flintlib/flint/wiki/Workshop-2024
+
 ## Planned projects
 
 * Performance tuning
