@@ -13,8 +13,8 @@
 
 ## Discussion
 
-* Zulip chat: https://sagemath.zulipchat.com/#narrow/stream/408539-flint
-* Wiki: https://github.com/flintlib/flint/wiki/Workshop-2024
+* Zulip chat: [https://sagemath.zulipchat.com/#narrow/stream/408539-flint](https://sagemath.zulipchat.com/#narrow/stream/408539-flint)
+* Wiki: [https://github.com/flintlib/flint/wiki/Workshop-2024](https://github.com/flintlib/flint/wiki/Workshop-2024)
 
 ## Planned projects
 
