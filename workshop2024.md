@@ -6,6 +6,8 @@
 * University of Bordeaux, Bordeaux, France
 * We have booked rooms 74 and 73 (ground floor) at LaBRI for the whole week ([how to get to LaBRI](https://www.labri.fr/en/presentation/coming-labri))
 
+![location](https://github.com/flintlib/flintlib.github.io/assets/368838/a2469343-f13b-4cf0-823d-a9d48fdcad0e)
+
 ## Schedule
 
 * 9:30 Monday morning - 17:00 Friday afternoon (but feel free to come only for a part of the week)
