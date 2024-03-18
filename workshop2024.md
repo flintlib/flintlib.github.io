@@ -51,10 +51,11 @@ To register for the workshop, please contact Fredrik. We expect to have funds to
 * Andreas Enge (except for Thursday)
 * Fredrik Johansson
 * Jean Kieffer (Tuesday - Thursday)
-* Sébastien Labbé (? Thursday)
+* Sébastien Labbé (Thursday)
 * Marc Mezzarobba
 * Hartmut Monien
 * Vincent Neiger (remote, maybe in person)
+* Aurel Page (Thursday morning)
 * Éric Schost (remote)
 * Kartik Venkatram
 
