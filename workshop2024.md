@@ -56,6 +56,7 @@ To register for the workshop, please contact Fredrik. We expect to have funds to
 * Hartmut Monien
 * Vincent Neiger (remote, maybe in person)
 * Aurel Page (Thursday morning)
+* Julian Rüth (remote)
 * Éric Schost (remote)
 * Kartik Venkatram
 
