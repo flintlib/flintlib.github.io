@@ -42,6 +42,7 @@ To register for the workshop, please contact Fredrik. We expect to have funds to
 
 * Albin Ahlbäck
 * Bill Allombert
+* Oscar Benjamin (Tuesday - Thursday)
 * Alex Best (tentatively, remote only)
 * Ricardo Buring
 * Xavier Caruso (tentatively, part of the week)
