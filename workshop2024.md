@@ -1,5 +1,12 @@
 # 2024 FLINT development workshop in Bordeaux
 
+## Photos
+
+![workshop1](https://github.com/flintlib/flintlib.github.io/assets/368838/37c1cdd3-269e-4663-8fae-cc0fdd4487d7)
+![workshop2](https://github.com/flintlib/flintlib.github.io/assets/368838/a9aa5d20-fd47-4895-9add-05f7e8adeeeb)
+![workshop3](https://github.com/flintlib/flintlib.github.io/assets/368838/6079702b-461d-41da-87e4-053951ba0953)
+
+
 ## When and where
 
 * March 18 - 22, 2024
