@@ -40,6 +40,7 @@
 * Fredrik Johansson (<fredrik.johansson@gmail.com>)
 * Sébastien Labbé (<sebastien.labbe@labri.fr>)
 * Andreas Enge (<andreas.enge@inria.fr>)
+* Joëlle Lacoste-Rodrigues (admin)
 
 ## Registration
 
