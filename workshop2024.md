@@ -67,7 +67,8 @@ besides a bug fix on n_primitive_root, I have been working on a small prime FFT 
 
 Bill Allombert:
 
-- Did some benchmarking of FLINT vs Pari/GP, identified factoring and L-function bottlenecks
+- Did some benchmarking of FLINT vs Pari/GP, identified polynomial factoring and L-function bottlenecks
+- Fixed include paths in example programs to allow normal compilation outside of Flint's build system
 
 Kartik Venkatram
 
