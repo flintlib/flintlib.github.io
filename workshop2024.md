@@ -77,6 +77,14 @@ Oscar Benjamin
 
 - Building python-flint [using meson](https://github.com/flintlib/python-flint/pull/129)
 
+Fredrik Johansson
+
+- Fixed several generics issues reported by participants
+- Refactored the generic power series code
+- Optimized `flint_mpn_mulmod_preinvn` and related functions using mulhigh
+- Implemented generic C mulhigh
+- Started working on optimized ``mpn_mod`` code
+
 ## When and where
 
 * March 18 - 22, 2024
