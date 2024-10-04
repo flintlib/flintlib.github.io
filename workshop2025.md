@@ -13,7 +13,7 @@
 ## Discussion
 
 * Zulip chat: [https://sagemath.zulipchat.com/#narrow/stream/408539-flint](https://sagemath.zulipchat.com/#narrow/stream/408539-flint)
-* Wiki: [https://github.com/flintlib/flint/wiki/Workshop-2023](https://github.com/flintlib/flint/wiki/Workshop-2023)
+* Wiki: [https://github.com/flintlib/flint/wiki/Workshop-2025](https://github.com/flintlib/flint/wiki/Workshop-2025)
 
 ## Organizers
 
