@@ -2,13 +2,24 @@
 
 ## When and where
 
-* Tentatively January 27 – 31, 2025
-* École polytechnique / Inria Saclay-IdF, Palaiseau, France
+* January 27 – 31, 2025
+* Bâtiment Alan Turing, campus de l'École polytechnique, Palaiseau, France
   ([location](https://www.openstreetmap.org/?mlat=48.71441&mlon=2.20540#map=18/48.71441/2.20540))
+  * Mon, Jan 27: Gilles Kahn room (ground floor)
+  * Tue, Jan 28 – Fri, Jan 31: Grace Hopper room (2nd floor, at the very back of
+  the building)
 
-## Schedule
+## Program
 
-* TBA
+The workshop will focus on on coding sprints to develop FLINT and improve
+FLINT’s integration in other software.
+(Developers of other mathematical software with no direct link to FLINT are also
+welcome!)
+
+Depending on participant interest, we may arrange a small number of tutorials
+and technical talks.
+Feel free to reach out to the organizers with presentation proposals or
+suggestions for topics you'd like to see covered.
 
 ## Discussion
 
@@ -24,9 +35,12 @@
 
 ## Registration
 
+Participation is free.
 To register for the workshop, please contact Ricardo and/or Marc.
-We expect to have funds to cover local expenses and/or travel for some
+
+We expect to have funds to cover local expenses and travel for some
 participants. Please contact us as soon as possible if you are interested.
+
 Remote participation will be possible.
 
 ## Participants
