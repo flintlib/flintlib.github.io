@@ -8,6 +8,8 @@
   * Mon, Jan 27: Gilles Kahn room (ground floor)
   * Tue, Jan 28 – Fri, Jan 31: Grace Hopper room (2nd floor, at the very back of
   the building)
+* We will start around 09:00 on Monday and end around 17:00 on Friday, but feel
+  free to arrive later or leave earlier.
 
 ## Program
 
@@ -20,6 +22,9 @@ Depending on participant interest, we may arrange a small number of tutorials
 and technical talks.
 Feel free to reach out to the organizers with presentation proposals or
 suggestions for topics you'd like to see covered.
+
+Additional informal talks and public discussions will be scheduled as the need
+arises.
 
 ## Discussion
 
