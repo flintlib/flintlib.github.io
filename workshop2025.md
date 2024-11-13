@@ -50,6 +50,17 @@ Remote participation will be possible.
 
 ## Participants
 
+* Albin Ahlbäck
+* Ricardo Buring
+* Edgar Costa (remote)
+* Andreas Enge
+* Lars Göttgens
+* Tom Hubrecht
+* Karthik Inbasekar
+* Fredrik Johansson
+* Pierre Lairez
+* Marc Mezzarobba
+* Vincent Neiger
 * ...
 
 ## Local information
