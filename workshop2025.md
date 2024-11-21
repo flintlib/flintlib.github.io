@@ -50,6 +50,7 @@ Remote participation will be possible.
 
 ## Participants
 
+* M'barek Abridllil
 * Albin Ahlbäck
 * Ricardo Buring
 * Edgar Costa (remote)
@@ -61,6 +62,7 @@ Remote participation will be possible.
 * Pierre Lairez
 * Marc Mezzarobba
 * Vincent Neiger
+* Bachar Samaoui
 * ...
 
 ## Local information
