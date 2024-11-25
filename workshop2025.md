@@ -59,8 +59,10 @@ Remote participation will be possible.
 * Tom Hubrecht
 * Karthik Inbasekar
 * Fredrik Johansson
+* Jean Kieffer
 * Pierre Lairez
 * Marc Mezzarobba
+* Pascal Molin
 * Vincent Neiger
 * Bachar Samaoui
 * ...
