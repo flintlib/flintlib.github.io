@@ -63,6 +63,7 @@ Remote participation will be possible.
 * Pierre Lairez
 * Paolo Lammens
 * Marc Mezzarobba
+* Arnaud Minondo
 * Pascal Molin
 * Vincent Neiger
 * Bachar Samaoui
