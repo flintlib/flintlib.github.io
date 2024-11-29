@@ -52,6 +52,7 @@ Remote participation will be possible.
 
 * M'barek Abridllil
 * Albin Ahlbäck
+* Oscar Benjamin
 * Ricardo Buring
 * Edgar Costa (remote)
 * Andreas Enge
