@@ -57,6 +57,7 @@ Remote participation will be possible.
 * Edgar Costa (remote)
 * Andreas Enge
 * Lars Göttgens
+* Alexandre Guillemot
 * Tom Hubrecht
 * Karthik Inbasekar
 * Fredrik Johansson
