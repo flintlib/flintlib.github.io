@@ -55,6 +55,7 @@ Remote participation will be possible.
 * Oscar Benjamin
 * Ricardo Buring
 * Edgar Costa (remote)
+* Vincent Delecroix (remote)
 * Andreas Enge
 * Lars Göttgens
 * Alexandre Guillemot
