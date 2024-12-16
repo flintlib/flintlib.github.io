@@ -56,7 +56,7 @@ Remote participation will be possible.
 * Ricardo Buring
 * Edgar Costa (remote)
 * Vincent Delecroix (remote)
-* Andreas Enge
+* Andreas Enge (Mon-Tue)
 * Lars Göttgens
 * Alexandre Guillemot
 * Tom Hubrecht
