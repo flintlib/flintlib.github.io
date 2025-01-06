@@ -83,4 +83,5 @@ Remote participation will be possible.
 
 ## Funding
 
-* ...
+* ANR NuSCAP
+* ERC 10000 DIGITS
