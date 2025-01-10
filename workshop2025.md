@@ -94,7 +94,7 @@ Remote participation will be possible.
 
 ### Where to eat
 
-* In the immediate vicinity of Polytechnique: _Le 19_, _Le Living-Room_
+* In the immediate vicinity of Polytechnique: Le 19, Le Living-Room
   (restaurants), Food Asia Saclay 91 (Asian fast food), Panifique (bakery,
   closes at 20:00), Mangia, Le Julie's.
 * Massy: many restaurants and fast-food options on both sides of
