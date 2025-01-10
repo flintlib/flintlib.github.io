@@ -71,15 +71,37 @@ Remote participation will be possible.
 * Pascal Molin
 * Vincent Neiger
 * Bachar Samaoui
-* ...
 
 ## Local information
 
+### Access
+
 * [Access and mobility on campus](https://www.ip-paris.fr/en/access-and-mobility-campus)
+* [Public transport map](https://www.paris-saclay.com/fileadmin/documents/2.Vivre_ici/Mobilite/Plan_Secteur_Orsay.pdf)
+  (warning: a few bus line have been renumbered, including 91-10 → 5154)
+* [Route planner](https://www.iledefrance-mobilites.fr/en)
+
+### Where to stay
+
 * [Aparthotel Adagio Access Palaiseau Saclay](https://www.adagio-city.com/fr/hotel-a0x3-apparthotel-adagio-access-palaiseau-saclay.shtml)
   is just around the corner
-* Alternatively, you can stay in Massy and take the bus (line 91-06 or 5154
-  from Massy Palaiseau to Place Marguerite Perey).
+* Many hotels in Massy, ~20 min from Polytechnique by bus (line 91-06 or
+  5154 from Massy Palaiseau to Place Marguerite Perey).
+* [Hôtel d'Orsay](https://www.orsay-hotel.com/) is located close to Le Guichet
+  RER station, 30--40 min from Polytechnique by foot via Passage du Buisson aka
+  escaliers de la Troche (300+ stairs), or ~30 min by bus (91-05 or 91-06 from
+  Gare du Guichet to Place Marguerite Perey).
+
+### Where to eat
+
+* In the immediate vicinity of Polytechnique: _Le 19_, _Le Living-Room_
+  (restaurants), Food Asia Saclay 91 (Asian fast food), Panifique (bakery,
+  closes at 20:00), Mangia, Le Julie's.
+* Massy: many restaurants and fast-food options on both sides of
+  Massy-Palaiseau RER station, most decent, none exceptional
+* A few restaurants close to Le Guichet station.
+* Many more options in Palaiseau (rue de Paris) or Orsay but not as easy to
+  reach.
 
 ## Funding
 
