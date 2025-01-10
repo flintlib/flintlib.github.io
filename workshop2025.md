@@ -78,7 +78,7 @@ Remote participation will be possible.
 * [Access and mobility on campus](https://www.ip-paris.fr/en/access-and-mobility-campus)
 * [Aparthotel Adagio Access Palaiseau Saclay](https://www.adagio-city.com/fr/hotel-a0x3-apparthotel-adagio-access-palaiseau-saclay.shtml)
   is just around the corner
-* Alternatively, you can stay in Massy and take the bus (line 91-06 or 91-10
+* Alternatively, you can stay in Massy and take the bus (line 91-06 or 5154
   from Massy Palaiseau to Place Marguerite Perey).
 
 ## Funding
