@@ -55,6 +55,7 @@ Remote participation will be possible.
 * Oscar Benjamin
 * Ricardo Buring
 * Edgar Costa (remote)
+* Luca De Feo
 * Vincent Delecroix (remote)
 * Andreas Enge (Mon-Tue)
 * Claudia Fevola
