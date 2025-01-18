@@ -26,6 +26,24 @@ suggestions for topics you'd like to see covered.
 Additional informal talks and public discussions will be scheduled as the need
 arises.
 
+### Monday, January 27th
+
+| Time          | Description |
+|---------------|-------------|
+| 09:00 - 10:00 | Welcome the participants |
+| 10:00 - 10:30 | [Quick introduction to FLINT: How to compile and contribute](download/flint_workshop_2025_introduction.pdf), [Example code](download/test_flint.c) |
+| 10:30 - 11:45 | - |
+| 11:45 - 13:15 | Lunch |
+| 13:15 - 17:30 | - |
+
+### Tuesday, January 28th
+
+### Wednesday, January 29th
+
+### Thursday, January 30th
+
+### Friday, January 31st
+
 ## Discussion
 
 * Zulip chat: [https://sagemath.zulipchat.com/#narrow/stream/408539-flint](https://sagemath.zulipchat.com/#narrow/stream/408539-flint)
