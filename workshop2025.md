@@ -26,35 +26,31 @@ suggestions for topics you'd like to see covered.
 Additional informal talks and public discussions will be scheduled as the need
 arises.
 
-### Daily schedule
-
-|               |             |
-|---------------|-------------|
+| Daily         |                |
+|:--------------|----------------|
 | 09:00 - 11:45 | Coding sprints |
-| 11:45 - 13:15 | Lunch at RIEA |
+| 11:45 - 13:15 | Lunch at RIEA  |
 | 13:15 - 17:30 | Coding sprints |
 
-### Monday, January 27th
-
-|               |             |
-|---------------|-------------|
+| Monday        |             |
+|:--------------|-------------|
 | 09:00 - 10:00 | Welcome the participants |
 | 10:00 - 10:30 | [Quick introduction to FLINT: How to compile and contribute](download/flint_workshop_2025_introduction.pdf), [Example code](download/test_flint.c) |
 
-### Tuesday, January 28th
-
-|               |             |
-|---------------|-------------|
+| Tuesday       |             |
+|:--------------|-------------|
 | 19:30         | Social dinner at *Le Living-Room* |
 
-### Wednesday, January 29th
-
-### Thursday, January 30th
-
-### Friday, January 31st
-
+| Wednesday     |             |
+|:--------------|-------------|
 |               |             |
-|---------------|-------------|
+
+| Thursday      |             |
+|:--------------|-------------|
+|               |             |
+
+| Friday        |             |
+|:--------------|-------------|
 | 11:00 - 11:45 | Albin Ahlbäck, *Fast basecases for arbitrary-size multiplication* |
 
 ## Discussion
