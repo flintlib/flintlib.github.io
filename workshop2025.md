@@ -80,7 +80,6 @@ Remote participation will be possible.
 * Lars Göttgens
 * Alexandre Guillemot
 * Tom Hubrecht
-* Karthik Inbasekar
 * Fredrik Johansson
 * Jean Kieffer
 * Pierre Lairez
