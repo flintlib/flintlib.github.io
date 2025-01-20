@@ -92,7 +92,6 @@ Remote participation will be possible.
 * Fredrik Johansson
 * Jean Kieffer
 * Pierre Lairez
-* Paolo Lammens
 * Marc Mezzarobba
 * Arnaud Minondo
 * Pascal Molin
