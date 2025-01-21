@@ -85,7 +85,6 @@ Remote participation will be possible.
 * Luca De Feo
 * Vincent Delecroix (remote)
 * Andreas Enge (Mon-Tue)
-* Claudia Fevola
 * Lars Göttgens
 * Alexandre Guillemot
 * Tom Hubrecht
@@ -95,7 +94,7 @@ Remote participation will be possible.
 * Marc Mezzarobba
 * Arnaud Minondo
 * Pascal Molin
-* Vincent Neiger
+* Vincent Neiger (Mon?, Thu)
 * Bachar Samaoui
 
 ## Local information
