@@ -84,7 +84,6 @@ Remote participation will be possible.
 * Edgar Costa (remote)
 * Luca De Feo
 * Vincent Delecroix (remote)
-* Andreas Enge (Mon-Tue)
 * Lars Göttgens
 * Alexandre Guillemot
 * Tom Hubrecht
