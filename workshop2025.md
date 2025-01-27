@@ -39,6 +39,7 @@ arises.
 
 | Tuesday       |             |
 |:--------------|-------------|
+| 10:00 - 10:30 | Fredrik Johansson, *Using FLINT's generics* |
 | 19:30         | Social dinner at *Le Living-Room* |
 
 | Wednesday     |             |
