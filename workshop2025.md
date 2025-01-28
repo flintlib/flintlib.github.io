@@ -48,7 +48,7 @@ arises.
 
 | Thursday      |             |
 |:--------------|-------------|
-|               |             |
+| 11:00 - 11:45 | Jean Kieffer, *Theta functions in FLINT* |
 
 | Friday        |             |
 |:--------------|-------------|
