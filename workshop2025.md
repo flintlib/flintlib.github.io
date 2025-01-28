@@ -1,5 +1,11 @@
 # 2025 FLINT development workshop in Palaiseau
 
+## Photos
+
+<img src="https://github.com/user-attachments/assets/c533668e-805e-41b1-b6d7-6c6883925261" width="500" />
+
+
+
 ## When and where
 
 * January 27 – 31, 2025
