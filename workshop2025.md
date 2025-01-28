@@ -78,7 +78,6 @@ Remote participation will be possible.
 
 ## Participants
 
-* M'barek Abridllil
 * Albin Ahlbäck
 * Oscar Benjamin
 * Ricardo Buring
@@ -95,7 +94,6 @@ Remote participation will be possible.
 * Arnaud Minondo
 * Pascal Molin
 * Vincent Neiger (Mon?, Thu)
-* Bachar Samaoui
 
 ## Local information
 
