@@ -35,11 +35,11 @@ arises.
 | Monday        |             |
 |:--------------|-------------|
 | 09:00 - 10:00 | Welcome the participants |
-| 10:00 - 10:30 | [Quick introduction to FLINT: How to compile and contribute](download/flint_workshop_2025_introduction.pdf), [Example code](download/test_flint.c) |
+| 10:00 - 10:30 | Albin Ahlbäck, [Quick introduction to FLINT: How to compile and contribute](download/flint_workshop_2025_introduction.pdf), [Example code](download/test_flint.c) |
 
 | Tuesday       |             |
 |:--------------|-------------|
-| 11:00 - 11:45 | Fredrik Johansson, *Using FLINT's generics* |
+| 11:00 - 11:45 | Fredrik Johansson, [*Using FLINT's generics*](https://fredrikj.net/math/saclay2025generics.pdf) |
 | 19:30         | Social dinner at *Le Living-Room* |
 
 | Wednesday     |             |
