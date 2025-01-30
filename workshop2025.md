@@ -2,9 +2,9 @@
 
 ## Photos
 
-<img src="https://github.com/user-attachments/assets/6a2ad096-a211-4b24-b840-5acb3dc7db27" height="400" />
+<img src="https://github.com/user-attachments/assets/6a2ad096-a211-4b24-b840-5acb3dc7db27" height="350" />
 
-<img src="https://github.com/user-attachments/assets/c533668e-805e-41b1-b6d7-6c6883925261" height="400" />
+<img src="https://github.com/user-attachments/assets/c533668e-805e-41b1-b6d7-6c6883925261" height="350" />
 
 ## When and where
 
