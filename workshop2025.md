@@ -54,7 +54,7 @@ arises.
 
 | Thursday      |             |
 |:--------------|-------------|
-| 10:30 - 11:15 | Jean Kieffer, *Theta functions in FLINT* |
+| 10:30 - 11:15 | Jean Kieffer, [*Theta functions in FLINT*](https://members.loria.fr/JKieffer/files/theta-flint.pdf) |
 
 | Friday        |             |
 |:--------------|-------------|
