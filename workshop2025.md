@@ -1,5 +1,9 @@
 # 2025 FLINT development workshop in Palaiseau
 
+## Results
+
+https://fredrikj.net/blog/2025/palaiseau-flint-workshop-report/
+
 ## Photos
 
 <img src="https://github.com/user-attachments/assets/6a2ad096-a211-4b24-b840-5acb3dc7db27" height="350" />
