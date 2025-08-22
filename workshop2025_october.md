@@ -69,12 +69,15 @@ participants.  Please contact us as soon as possible if you are interested.
 
 Remote participation will be possible.
 
-## Participants
+## Participants (tentative list, to be confirmed)
 
 * Albin Ahlbäck
 * Fredrik Johansson
+* Matthias Köppe *(remote)*
 * Marc Mezzarobba
-...
+* Vincent Neiger
+* Adrien Poteaux
+* ...
 
 ## Local information
 
