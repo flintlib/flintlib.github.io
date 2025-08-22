@@ -34,7 +34,7 @@ arises.
 
 | Tuesday       |             |
 |:--------------|-------------|
-| 19:30         | Social dinner (location TBD) |
+|               |             |
 
 | Wednesday     |             |
 |:--------------|-------------|
