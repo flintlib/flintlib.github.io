@@ -75,6 +75,7 @@ Remote participation will be possible.
 * Fredrik Johansson
 * Matthias Köppe *(remote)*
 * Marc Mezzarobba
+* Guillaume Moroz
 * Vincent Neiger
 * Adrien Poteaux
 * ...
