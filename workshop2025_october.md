@@ -49,6 +49,13 @@ arises.
 |:--------------|-------------|
 |               |             |
 
+
+Planned talks:
+
+* Joshua Davies, *The FORM Computer Algebra System*
+* Matthias Köppe, *passagemath-flint*
+
+
 ## Discussion
 
 * Zulip chat: [https://sagemath.zulipchat.com/#narrow/stream/408539-flint](https://sagemath.zulipchat.com/#narrow/stream/408539-flint)
@@ -72,6 +79,7 @@ Remote participation will be possible.
 ## Participants (tentative list, to be confirmed)
 
 * Albin Ahlbäck
+* Joshua Davies *(remote)*
 * Fredrik Johansson
 * Matthias Köppe *(remote)*
 * Marc Mezzarobba
