@@ -82,6 +82,7 @@ Remote participation will be possible.
 * Joshua Davies *(remote)*
 * Fredrik Johansson
 * Matthias Köppe *(remote)*
+* Anastasia Matveeva
 * Marc Mezzarobba
 * Guillaume Moroz
 * Vincent Neiger
