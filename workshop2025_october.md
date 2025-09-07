@@ -88,6 +88,7 @@ Remote participation will be possible.
 * Guillaume Moroz
 * Vincent Neiger
 * Adrien Poteaux
+* Andrii Yanovets
 * ...
 
 ## Local information
@@ -100,9 +101,11 @@ Remote participation will be possible.
 ### Where to stay
 
 * [Aparthotel Adagio Access Palaiseau Saclay](https://www.adagio-city.com/fr/hotel-a0x3-apparthotel-adagio-access-palaiseau-saclay.shtml)
-  is just around the corner
+  is just around the corner (but the neighborhood is a bit lifeless and it takes
+  some time to get out of it).
 * Many hotels in Massy, ~20 min from Polytechnique by bus (line 4606 or 5154
-  from Massy Palaiseau to Place Marguerite Perey).
+  from Massy Palaiseau to Place Marguerite Perey; better option if you want to
+  go to Paris in the evenings.
 * [Hôtel d'Orsay](https://www.orsay-hotel.com/) is located close to Le Guichet
   RER station, 30--40 min from Polytechnique by foot via Passage du Buisson aka
   escaliers de la Troche (300+ stairs), or ~30 min by bus (9105 or 4606 from
