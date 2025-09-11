@@ -80,7 +80,7 @@ Remote participation will be possible.
 
 * Albin Ahlbäck
 * Joshua Davies *(remote)*
-* Taisiia Dobrozorova
+* Taisiia Dobrozorova *(remote)*
 * Fredrik Johansson
 * Matthias Köppe *(remote)*
 * Anastasia Matveeva
