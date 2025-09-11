@@ -125,4 +125,5 @@ Remote participation will be possible.
 
 ## Funding
 
-TBD
+* ANR NuSCAP
+* CNRS UMR 7161 (LIX), équipe MAX
