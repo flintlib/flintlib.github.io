@@ -79,6 +79,7 @@ Remote participation will be possible.
 ## Participants (tentative list, to be confirmed)
 
 * Albin Ahlbäck
+* Ricardo Buring
 * Joshua Davies *(remote)*
 * Taisiia Dobrozorova *(remote)*
 * Fredrik Johansson
