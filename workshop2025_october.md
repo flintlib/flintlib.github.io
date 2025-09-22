@@ -71,12 +71,9 @@ Planned talks:
 Participation is free.  To register for the workshop, please contact Albin
 and/or Marc.
 
-We expect to have funds to cover local expenses and travel for some
-participants.  Please contact us as soon as possible if you are interested.
-
 Remote participation will be possible.
 
-## Participants (tentative list, to be confirmed)
+## Participants
 
 * Albin Ahlbäck
 * Ricardo Buring
