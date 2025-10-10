@@ -78,7 +78,6 @@ Remote participation will be possible.
 * Albin Ahlbäck
 * Ricardo Buring
 * Joshua Davies *(remote)*
-* Taisiia Dobrozorova *(remote)*
 * Fredrik Johansson
 * Matthias Köppe *(remote)*
 * Anastasia Matveeva
