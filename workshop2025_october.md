@@ -83,8 +83,8 @@ Remote participation will be possible.
 * Anastasia Matveeva
 * Marc Mezzarobba
 * Guillaume Moroz
-* Rubén Muñoz&#45;&#45;Bertrand (Wednesday afternoon)
-* Vincent Neiger
+* Rubén Muñoz&#45;&#45;Bertrand *(Wednesday afternoon)*
+* Vincent Neiger *(Monday, remote Wednesday–Friday)*
 * Adrien Poteaux
 * Andrii Yanovets
 * ...
