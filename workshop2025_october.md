@@ -37,9 +37,10 @@ arises.
 |:--------------|---------------------------------------------------|
 | 17:00 - 17:45 | Joshua Davies, *The FORM Computer Algebra System* |
 
-| Wednesday     |                               |
-|:--------------|-------------------------------|
-| 17:00 - 17:45 | Matthias Köppe, *passagemath* |
+| Wednesday     |                                   |
+|:--------------|-----------------------------------|
+| 17:00 - 17:45 | Matthias Köppe, *passagemath*     |
+| 19:30         | Social dinner at *Le Living-Room* |
 
 | Thursday      |             |
 |:--------------|-------------|
