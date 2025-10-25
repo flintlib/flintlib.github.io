@@ -82,7 +82,6 @@ Remote participation will be possible.
 * Fredrik Johansson
 * Matthias Köppe *(remote)*
 * Dimitri Lesnoff
-* Anastasia Matveeva
 * Marc Mezzarobba
 * Guillaume Moroz
 * Rubén Muñoz&#45;&#45;Bertrand *(Wednesday afternoon)*
