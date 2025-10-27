@@ -34,7 +34,7 @@ arises.
 | Monday        |             |
 |:--------------|-------------|
 | 09:00 - 10:00 | Welcome the participants |
-| afternoon     | Discussion on small-prime FFT and linear algebra mod small p |
+| 14:30         | Discussion on small-prime FFT and linear algebra mod small p |
 
 | Tuesday       |                                                   |
 |:--------------|---------------------------------------------------|
