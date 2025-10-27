@@ -88,7 +88,7 @@ Remote participation will be possible.
 * Marc Mezzarobba
 * Guillaume Moroz
 * Rubén Muñoz&#45;&#45;Bertrand *(Wednesday afternoon)*
-* Vincent Neiger *(Monday, remote Wednesday–Friday)*
+* Vincent Neiger *(remote)*
 * Adrien Poteaux
 * Andrii Yanovets
 * ...
