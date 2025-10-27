@@ -1,5 +1,7 @@
 # FLINT development workshop in Palaiseau, October 2025
 
+[Wiki](https://github.com/flintlib/flint/wiki/Workshop-2025-October)
+
 ## When and where
 
 * October 27 -- 31, 2025
