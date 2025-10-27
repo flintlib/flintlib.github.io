@@ -32,6 +32,7 @@ arises.
 | Monday        |             |
 |:--------------|-------------|
 | 09:00 - 10:00 | Welcome the participants |
+| afternoon     | Discussion on small-prime FFT and linear algebra mod small p |
 
 | Tuesday       |                                                   |
 |:--------------|---------------------------------------------------|
@@ -48,7 +49,7 @@ arises.
 
 | Friday        |             |
 |:--------------|-------------|
-|               |             |
+| 14:00         | PhD defense of Alexandre Goyer, amphitheatre Sophie Germain (Turing building, ground floor) |
 
 
 Planned talks:
