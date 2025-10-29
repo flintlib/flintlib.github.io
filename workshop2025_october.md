@@ -7,8 +7,7 @@
 * October 27 -- 31, 2025
 * Bâtiment Alan Turing, campus de l'École polytechnique, Palaiseau, France
   ([location](https://www.openstreetmap.org/?mlat=48.71441&mlon=2.20540#map=18/48.71441/2.20540))
-  * Mon–Tue : Gilles Kahn room (ground floor)
-  * Wed–Fri: Grace Hopper room (2nd floor, at the very back of the building)
+  Gilles Kahn room (ground floor)
 * We plan to start around 09:00 on Monday and end between 12:00 and 17:00 on
   Friday. Feel free to arrive later or leave earlier.
 
