@@ -37,7 +37,7 @@ arises.
 
 | Tuesday       |                                                   |
 |:--------------|---------------------------------------------------|
-| 17:00 - 17:45 | Joshua Davies, *The FORM Computer Algebra System* |
+| 17:00 - 17:45 | Joshua Davies, [*The FORM Computer Algebra System*](download/20251028-davies-form.pdf) |
 
 | Wednesday     |                                   |
 |:--------------|-----------------------------------|
@@ -52,11 +52,6 @@ arises.
 |:--------------|-------------|
 | 14:00         | PhD defense of Alexandre Goyer, amphitheatre Sophie Germain (Turing building, ground floor) |
 
-
-Planned talks:
-
-* Joshua Davies, *The FORM Computer Algebra System*
-* Matthias Köppe, *passagemath-flint*
 
 
 ## Discussion
