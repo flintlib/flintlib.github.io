@@ -82,6 +82,7 @@ Remote participation will be possible.
 * Ricardo Buring
 * Joshua Davies *(remote)*
 * Fredrik Johansson
+* Mateo Crabit Nicolau *(Thursday afternoon)*
 * Matthias Köppe *(remote)*
 * Dimitri Lesnoff
 * Marc Mezzarobba
