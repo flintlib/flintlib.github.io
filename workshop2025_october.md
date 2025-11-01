@@ -77,6 +77,7 @@ Remote participation will be possible.
 * Ricardo Buring
 * Joshua Davies *(remote)*
 * Fredrik Johansson
+* Maël Hostettler *(remote*)
 * Mateo Crabit Nicolau *(Thursday afternoon)*
 * Matthias Köppe *(remote)*
 * Dimitri Lesnoff
@@ -86,7 +87,6 @@ Remote participation will be possible.
 * Vincent Neiger *(remote)*
 * Adrien Poteaux
 * Andrii Yanovets
-* ...
 
 ## Local information
 
