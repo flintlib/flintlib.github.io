@@ -1,5 +1,6 @@
 # FLINT
 
+- [2026 FLINT development workshop](workshop2026.html)
 - [2025 October FLINT development workshop](workshop2025_october.html)
 - [2025 January FLINT development workshop](workshop2025.html)
 - [2024 FLINT development workshop](workshop2024.html)
