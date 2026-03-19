@@ -16,6 +16,9 @@
 ## Practical information
 
 * The Wi-Fi is extremely poor, but Ethernet cables are available. Bring an Ethernet to USB adapter if you need one.
+* The room 74 ("visio") is reserved for the whole week.
+* The room 73 just in front is reserved for the whole week except Friday 10:30-12:00.
+* The coffee machine is reserved for the whole week except Monday 10:00-12:00 (combinatorics seminar) and Friday 13:00-15:30 (graph theory seminar)
 
 ## Discussion
 
