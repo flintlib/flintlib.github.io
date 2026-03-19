@@ -44,6 +44,7 @@ can look into options. Remote participation is possible.
 
 ## Participants
 
+* Albin Ahlbäck
 * Fredrik Johansson
 
 ## Funding
