@@ -47,6 +47,7 @@ can look into options. Remote participation is possible.
 * Albin Ahlbäck
 * Fredrik Johansson
 * Marc Mezzarobba (remote)
+* Vincent Neiger (tentatively remote)
 
 ## Funding
 
