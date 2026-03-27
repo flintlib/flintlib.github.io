@@ -45,7 +45,9 @@ can look into options. Remote participation is possible.
 ## Participants
 
 * Albin Ahlbäck
+* Joel Dahne (remote)
 * Fredrik Johansson
+* Kiran Kedlaya (mid-week)
 * Marc Mezzarobba (remote)
 * Vincent Neiger (tentatively remote)
 
