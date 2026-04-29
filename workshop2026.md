@@ -49,6 +49,7 @@ can look into options. Remote participation is possible.
 * Fredrik Johansson
 * Kiran Kedlaya (mid-week; probably Wednesday + Thursday morning)
 * Abhiram Kidambi (remote)
+* Lars Göttgens
 * Marc Mezzarobba (remote)
 * Vincent Neiger (tentatively remote)
 
