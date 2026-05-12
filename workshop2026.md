@@ -45,12 +45,15 @@ can look into options. Remote participation is possible.
 ## Participants
 
 * Albin Ahlbäck
+* Bill Allombert
+* Rayane Bait
 * Joel Dahne (remote)
+* Lars Göttgens
 * Fredrik Johansson
 * Kiran Kedlaya (mid-week; probably Wednesday + Thursday morning)
 * Abhiram Kidambi (remote)
-* Lars Göttgens
 * Marc Mezzarobba (remote)
+* Rubén Muñoz-Bertrand (probably Monday-Wednesday)
 * Vincent Neiger (tentatively remote)
 
 ## Funding
