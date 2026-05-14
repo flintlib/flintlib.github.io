@@ -55,6 +55,7 @@ can look into options. Remote participation is possible.
 * Marc Mezzarobba (remote)
 * Rubén Muñoz-Bertrand (probably Monday-Wednesday)
 * Vincent Neiger (tentatively remote)
+* Wenwen Xia
 
 ## Funding
 
