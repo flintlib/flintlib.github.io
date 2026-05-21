@@ -51,6 +51,7 @@ can look into options. Remote participation is possible.
 * Lars Göttgens
 * Fredrik Johansson
 * Kiran Kedlaya (mid-week; probably Wednesday + Thursday morning)
+* Kerem Kelleboz
 * Abhiram Kidambi (remote)
 * Marc Mezzarobba
 * Rubén Muñoz-Bertrand (probably Monday-Wednesday)
