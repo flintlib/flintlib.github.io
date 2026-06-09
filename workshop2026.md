@@ -47,6 +47,7 @@ can look into options. Remote participation is possible.
 * Albin Ahlbäck
 * Bill Allombert
 * Rayane Bait
+* Oscar Benjamin
 * Ricardo Buring (remote)
 * Joel Dahne (remote)
 * Lars Göttgens
