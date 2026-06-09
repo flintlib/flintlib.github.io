@@ -55,7 +55,8 @@ can look into options. Remote participation is possible.
 * Kerem Kelleboz
 * Abhiram Kidambi (remote)
 * Marc Mezzarobba
-* Rubén Muñoz-Bertrand (probably Monday-Wednesday)
+* Pascal Molin (Tuesday - Thursday)
+* Rubén Muñoz-Bertrand (Tuesday - Wednesday)
 * Vincent Neiger (tentatively remote)
 * Wenwen Xia
 
