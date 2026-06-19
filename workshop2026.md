@@ -49,7 +49,9 @@ can look into options. Remote participation is possible.
 * Rayane Bait
 * Oscar Benjamin
 * Ricardo Buring (remote)
+* Xavier Caruso (Friday)
 * Joel Dahne (remote)
+* Vincent Delecroix (Thursday)
 * Andreas Enge
 * Lars Göttgens
 * Fredrik Johansson
